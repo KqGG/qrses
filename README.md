@@ -2,10 +2,10 @@
 - Working linux machine
 - GCC
 - FASM
-- Any shell ( Preferably BASH)
+- Any shell ( Preferably BASH )
 # Build and usage
-You can build the library along with the debug/exemplary program by running ./build.sh
-This project consists of only one source file, so you can also build it by running:
+You can build the library along with the debug/exemplary program by running ./build.sh\n
+This project consists of only one source file, so you can also build it by running:\n
 `fasm src/core.asm bld/qrses.o`
 # Disclaimers
 1. None of this is really documented, I mean the source has comments but otherwise you're on your own.
